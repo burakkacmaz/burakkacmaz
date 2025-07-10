@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I graduated from MAKU, Computer Programming.<br>💼 I’m currently working at Tripkolic.<br>🤝 I’m looking to collaborate on exciting development projects.<br>📚 I’m currently learning NestJS.
+🎓 I graduated from MAKU, Computer Programming.<br>💼 I’m currently working at Orca Softwares.
 
 
 ## 🌐 Socials:
